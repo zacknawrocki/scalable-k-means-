@@ -9,4 +9,4 @@ The topic we selected was Scalable k-means++, based on the following paper: http
 2. [Slides](https://github.com/eddie1208/Scalable-K-Means-plus-plus/blob/main/MLOPT%20Project%20Presentation.pdf)
 3. [Problem Set](https://github.com/eddie1208/Scalable-K-Means-plus-plus/blob/main/Scalable_K_means_Problem_Set.pdf)
 
-The video presentation is linked through Rensselaer's Box storage [here](https://rpi.box.com/s/qf6dhib48jdq17ilfel2m0pypsgm5fa3).
+The video presentation can be found [here](https://www.youtube.com/watch?v=iS67Mcl9eQM) on YouTube.
